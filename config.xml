@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "fi.metropolia.kari.lab2"
+        versionCode="1" 
+        version   = "1.0.0">
+    <name>PhoneGap Lab2</name>
+    <description>
+        test PhoneGap Service 
+    </description>
+    <author href="http://user.metropolia.fi/~kari/" email="kari.salo@metropolia.fi">
+        kjsalo 
+    </author>
+	<icon src="icon.png" />
+</widget>

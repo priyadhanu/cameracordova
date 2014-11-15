@@ -12,4 +12,6 @@
         kjsalo 
     </author>
 	<icon src="icon.png" />
+<gap:plugin name="org.apache.cordova.media-capture" version="0.3.3" />
+
 </widget>
